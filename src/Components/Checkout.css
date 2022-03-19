@@ -1,0 +1,40 @@
+.shoe1{
+    background-color: white;
+    width: 100px;
+    /* display: flex; */
+    justify-content: right;
+    align-items: right;
+    height: 10%;
+    width: 300px;
+    padding: 50px 25px;
+    float: right;
+}
+
+.image{
+    align-items: center;
+    width: 100px;
+    height: 10px;
+    padding-left: 50px;
+ 
+}
+
+.star{
+    align-items: center;
+    width: 15px;
+    height: 15px;
+}
+
+.classPage{
+    background-color: white;
+    /* display: flex; */
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    border-radius: 4px;
+    justify-content: right;
+    align-items: right;
+    /* flex-direction: column; */
+    width: 300px;
+    padding: 50px 25px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+

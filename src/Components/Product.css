@@ -1,0 +1,87 @@
+.shoe {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    /* flex-wrap: wrap; */
+    padding: 35px 100px 35px 100px;
+}
+
+.shoeData {
+    background-color: white;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+    border-radius: 4px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 300px;
+    padding: 40px 15px;
+    margin: 20px;
+    box-sizing: border-box;
+   
+}
+
+.shoeImg {
+    max-width: 220px;
+    max-height: 150px;
+}
+
+.horizontalLine {
+    background-color: rgb(135, 130, 130);
+    width: 50px;
+    height: 3px;
+    border-radius: 20px;
+    margin: 55px 0 0 0;
+}
+
+.nameAndRating {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.shoeName {
+    color: #17353D;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: 10px 0;
+}
+
+.rating {
+    background-color: #FAE5D3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    padding: 2px 4px;
+}
+
+.starImg {
+    width: 15px;
+    height: 15px;
+}
+
+.ratingNumber {
+    color: #F79B34;
+    margin: 0;
+}
+
+.price {
+    color: #E74C3C;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+    margin: 0;
+    margin-top: 10px;
+}
+
+.delivery {
+    color: #17353D;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: small;
+    margin-bottom: 0;
+}

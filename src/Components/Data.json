@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "image": "./photos/shoe-5.png",
+        "name": "Bata",
+        "price": "₹ 3450",
+        "star":"./photos/Star 1.png",
+        "rating": 5.0,
+        "delivery": "29 March, Tuesday"
+    },
+    {
+        "id": 2,
+        "image": "./photos/shoe-6.png",
+        "name": "Nike",
+        "price": "₹ 4560",
+        "star": "./photos/Star 1.png",
+        "rating": 4.0,
+        "delivery": "24 March, Thursday"
+    },
+    {
+        "id": 3,
+        "image": "./photos/shoe-3.png",
+        "name": "Reebok",
+        "price": "₹ 3100",
+        "star": "./photos/Star 1.png",
+        "rating": 2.0,
+        "delivery": "21 March, Monday"
+    },
+    {
+        "id": 4,
+        "image": "./photos/shoe-5.png",
+        "name": "Campus",
+        "price": "₹ 4650",
+        "star": "./photos/Star 1.png",
+        "rating": 1.0,
+        "delivery": "28 March, Monday"
+    },
+    {
+        "id": 5,
+        "image": "./photos/shoe-6.png",
+        "name": "FILA",
+        "price": "₹ 5400",
+        "star": "./photos/Star 1.png",
+        "rating": 5.0,
+        "delivery": "21 March, Monday"
+    },
+    {
+        "id": 6,
+        "image": "./photos/shoe-3.png",
+        "name": "Adidas",
+        "price": "₹ 2360",
+        "star": "./photos/Star 1.png",
+        "rating": 3.0,
+        "delivery": "26 March, Saturday"
+    },
+    {
+        "id": 7,
+        "image": "./photos/shoe-5.png",
+        "name": "Puma",
+        "price": "₹ 3400",
+        "star": "./photos/Star 1.png",
+        "rating": 2.0,
+        "delivery": "30 March, Wednesday"
+    },
+    {
+        "id": 8,
+        "image": "./photos/shoe-6.png",
+        "name": "Woodland",
+        "price": "₹ 4650",
+        "star": "./photos/Star 1.png",
+        "rating": 4.0,
+        "delivery": "31 March, Thursday"
+    },
+    {
+        "id": 9,
+        "image": "./photos/shoe-3.png",
+        "name": "Puma",
+        "price": "₹ 2400",
+        "star": "./photos/Star 1.png",
+        "rating": 1.0,
+        "delivery": "28 March, Monday"
+    }
+]
